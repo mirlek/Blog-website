@@ -1,1 +1,5 @@
 run the server: npm run dev
+
+switch to the db in mongosh:
+1)mongosh
+2)use react-blog-db
